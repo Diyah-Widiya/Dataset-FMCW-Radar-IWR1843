@@ -5,9 +5,9 @@ This repository contains an **FMCW radar dataset for non-contact heart rate (HR)
 ## Dataset Description
 
 The dataset includes heart-rate (HR) measurements from **three healthy subjects** (1 male and 2 females, aged 22–29 years). One subject was classified as **overweight (Obesity Class I)** according to Body Mass Index (BMI), while the remaining subjects had normal BMI.
+During data acquisition, each subject was positioned **0.5 meters** from the radar sensor in a stationary posture. Ground-truth heart rate measurements were recorded simultaneously using a **Polar H10** chest-strap heart rate monitor.
 
-Ground-truth heart rate measurements were recorded simultaneously using a **Polar H10** chest-strap heart rate monitor. The repository provides:
-
+The repository provides:
 - FMCW radar raw data
 - Ground-truth heart rate (HR) measurements
 
