@@ -10,17 +10,6 @@ Ground-truth heart rate measurements were recorded simultaneously using a **Pola
 
 - FMCW radar raw data
 - Ground-truth heart rate (HR) measurements
-- Supporting files for data processing and analysis
-
-## Applications
-
-This dataset can be used for research in:
-
-- Non-contact vital sign monitoring
-- Heart rate estimation using FMCW radar
-- Machine learning and deep learning for biomedical signal processing
-- Radar signal processing
-- Human sensing applications
 
 ## Citation
 
